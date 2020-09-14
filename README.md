@@ -9,6 +9,8 @@ Along with sorting, the various time complexities of different bounds are also d
 ![image](https://github.com/yash11213018/Visualizer/blob/master/screens/sorting_screen1.JPG)
 ## Screen 2:
 ![image](https://github.com/yash11213018/Visualizer/blob/master/screens/sorting_screen2.JPG)
+## Screen 3:
+![image](https://github.com/yash11213018/Visualizer/blob/master/screens/sorting_screen3.JPG)
 
 
 ## Getting Started
