@@ -38,7 +38,13 @@ Or Simply Download the module package
 https://pypi.org/project/pygame/
 ```
 
+## Features
+* keys like 1,2,3,4 are designated to various sorting algorithms.
+* reset option is provided for resetting and randomizing the heights of rectangles to display an unsorted fashion.
+* worst,best and average cases are provided with respect to the selected sorting algorithm.
+* a time-mapper stopwatch is provided to map the actual time required for sorting ad it's relevance to time bounds.
 
+Simply Execute the .py File
 ## Running the tests
 
 ```
