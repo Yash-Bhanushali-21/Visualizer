@@ -1,7 +1,7 @@
 # Sorting Algorithm Visualizer
 
 This is a game-developement project of Sorting algorithm visualizer. The GUI is built with PyGame module.
-this is a visual representation of sorting algorithms aimed for sorting various rectangles of variable widths
+this is a visual representation of sorting algorithms aimed for sorting various rectangles of variable heights
 according to the algorithm paradigm.
 Along with sorting, the various time complexities of different bounds are also displayed.
 
